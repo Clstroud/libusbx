@@ -45,3 +45,5 @@ Release
 *.patch
 *~
 *.orig
+
+Xcode/.DS_Store
